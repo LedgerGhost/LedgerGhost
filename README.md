@@ -128,20 +128,7 @@ n8n workflow automation, Docker containerisation, scripting pipelines that do th
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=LedgerGhost&show_icons=true&theme=chartreuse-dark&bg_color=0a0a0a&border_color=00FF9C&icon_color=00FF9C&title_color=00FF9C&text_color=cccccc&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LedgerGhost&layout=compact&theme=chartreuse-dark&bg_color=0a0a0a&border_color=00FF9C&title_color=00FF9C&text_color=cccccc" />
-
-</div>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=LedgerGhost&theme=dark&background=0a0a0a&border=00FF9C&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=00FF9C&dates=888888" />
-
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/LedgerGhost/LedgerGhost/output/github-snake-dark.svg" />
-</div>
 
 ---
 
