@@ -18,12 +18,12 @@
 │  $ whoami                                                            │
 │                                                                      │
 │  > Konstantinos Stergiou — LedgerGhost                               │
-│  > 4th year Electrical & Computer Engineering @ NTUA, Athens         │
+│  > 5th year Electrical & Computer Engineering @ NTUA, Athens         │
 │  > Specialization: Computer Systems, Networks & Software             │
 │                                                                      │
-│                                                                      │
+│  > AI & Data Internt @ EY                                            │
 │  > IEEE Greece Section · Student Representative                      │
-│  > President @ NTUA ECE Library                                      │
+│  > Former President @ NTUA ECE Library                               │
 │  > Former Blockchain Team Coordinator @ NTUA CS Chapter              │
 │                                                                      │
 │                                                                      │
