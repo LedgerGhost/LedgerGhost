@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Konstantinos+Stergiou.;You+can+call+me+LedgerGhost.;4th+year+ECE+%40+NTUA%2C+Athens.;I+haunt+distributed+systems.;Blockchain+%7C+Cryptography+%7C+Networks.;...+and+I+write+Solidity+at+odd+hours." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Konstantinos+Stergiou.;You+can+call+me+LedgerGhost.;5th+year+ECE+%40+NTUA%2C+Athens.;I+haunt+distributed+systems.;Blockchain+%7C+Cryptography+%7C+Networks.;...+and+I+write+Solidity+at+odd+hours." alt="Typing SVG" />
 
 <br/>
 
